@@ -1,0 +1,7 @@
+{
+    "name": "devcorrelator/tooltipster",
+    "description": "From: https://github.com/iamceege/tooltipster",
+    "keywords": ["jquery", "tooltip", "popup"],
+    "type": "component",
+    "homepage": "https://github.com/devcorrelator/tooltipster"
+}
